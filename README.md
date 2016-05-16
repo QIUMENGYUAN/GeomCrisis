@@ -11,4 +11,7 @@ Please use Unity5.3.2  or higher.
 #ScreenShot
 
 ![](https://github.com/QIUMENGYUAN/GeomCrisis/blob/master/1.png)
+![](https://github.com/QIUMENGYUAN/GeomCrisis/blob/master/2.png)
+![](https://github.com/QIUMENGYUAN/GeomCrisis/blob/master/3.png)
+![](https://github.com/QIUMENGYUAN/GeomCrisis/blob/master/4.png)
 
